@@ -1,5 +1,4 @@
 # bootcampSpringProject
-Merhaba, öncelikle bu imkanı sunduğunuz için Önder Hocama ve Fibabanka'ya teşekkür ederim. Mevcutta çalıştığımdan dolayı ödevleri yapacak vakit bulamasam da hocamızın anlattıklarını pratiğe dökmek ve Fibabanka Speed Bootcamp kapsamında spring' de kendimi geliştirmek istediğim için projeyi elimden geldiğimce belirtilen mimaride tamamlamaya çalıştım. Aşağıda örnek işlemleri ekran görüntüleriyle beraber anlatmaya çalıştım. 
 
 Proje inventory ve shopping olmak üzere 2 tane db ve inventory,shopping,commerce mikroservisleri olmak üzere 3 tane spring servisini içermektedir. Commerce servisi veriyi görselleştirmek açısından postman kullanarak test edilmiştir. Ek olarak commerce servisi restTemplate ile inventory ve shopping servislerini çağırmaktadır.
 
