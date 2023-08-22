@@ -1,6 +1,6 @@
 # bootcampSpringProject
 
-Proje inventory ve shopping olmak üzere 2 tane db ve inventory,shopping,commerce mikroservisleri olmak üzere 3 tane spring servisini içermektedir. Commerce servisi veriyi görselleştirmek açısından postman kullanarak test edilmiştir. Ek olarak commerce servisi restTemplate ile inventory ve shopping servislerini çağırmaktadır.
+Proje inventory,shopping db'lerini ve inventory,shopping,commerce mikroservislerini içermektedir. Commerce servisi veriyi görselleştirmek açısından postman kullanarak test edilmiştir. Ek olarak commerce servisi restTemplate ile inventory ve shopping servislerini çağırmaktadır.
 
 inventory db => category table
 ![image](https://user-images.githubusercontent.com/72450893/200873584-ec213be8-87cb-437f-93c2-2594208fc32e.png)
